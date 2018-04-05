@@ -1,5 +1,5 @@
 Marcus More
-221150030
+João Victor Martinez
 CC4651 DP
 Estrutura de Dados
-Estruturas que serão utilizadas: LES & Hash (String)
+Estruturas que serão utilizadas: LDDE & Hash (String)
