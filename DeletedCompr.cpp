@@ -17,9 +17,9 @@ bool DeletedCompr::inserir(std::string compr, std::string data){
 		return false;
 	}
 	
-	//old[f].compromisso=compr;
-	//old[f].data=data;
-	old[f] = new FIFO(compr,data);
+	old[f].compromisso=compr;
+	old[f].data=data;
+	
 	f=(f+1)%6;
 	return true;
 	
